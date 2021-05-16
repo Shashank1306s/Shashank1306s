@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shashank1306s
-- 👀 I’m interested in software development
+- 👀 I’m interested in software development/Web Development
 - 🌱 I’m currently learning reactjs
 - 💞️ I’m looking to collaborate on ***
 - 📫 How to reach me***
